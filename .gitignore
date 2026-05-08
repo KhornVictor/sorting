@@ -1,4 +1,4 @@
 *.exe
-./homework/*.cpp
-./homework/*.h
-./homework/*.o
+homework/*.cpp
+homework/*.h
+homework/*.o
