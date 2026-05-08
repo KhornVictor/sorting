@@ -1,2 +1,4 @@
 *.exe
-./homework/*
+./homework/*.cpp
+./homework/*.h
+./homework/*.o
